@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMXBeNrmz3gIUzix0rX0q6j0Uque0RKp9d2SV2M8ucXEj0d7gVLB4KpRCuxewljVIlpkU1UH6lbcunj2s+XNhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\siste\\OneDrive\\Desktop\\FamilySearch-Auth-CSharp\\FamilySearch-Auth-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siste\\.nuget\\packages\\jwt\\10.1.1\\jwt.10.1.1.nupkg.sha512",
+    "C:\\Users\\siste\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\siste\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\siste\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\siste\\.nuget\\packages\\system.text.json\\6.0.7\\system.text.json.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
